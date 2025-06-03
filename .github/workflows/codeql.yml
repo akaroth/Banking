@@ -44,7 +44,7 @@ jobs:
         # The 'include:' line was invalid. It has been replaced with a 'language' matrix.
         # I have added 'go' and 'python' based on your work.
         # You can customize this list.
-        language: ['go', 'python']
+        language: ['python']
         #
         # Supported values: 'c-cpp', 'csharp', 'go', 'java-kotlin', 'javascript-typescript', 'python', 'ruby', 'swift'
         # --- FIX ENDS HERE ---
